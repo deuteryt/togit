@@ -1,2 +1,3 @@
 1. Pierwsza opcja do zrobienia.
 2. Kolejna ważna rzecz do zrobienia.
+3. Dodanie trzeciego punktu.
